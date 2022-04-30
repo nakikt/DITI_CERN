@@ -1,4 +1,4 @@
-# DITI_CERN
+# IceBusters_CERN
 In 2017 the project hab been awarded under the name DITI - Deepn In The Ice, a year later we improved the project and launched under the name IceBusters. 
 
 About the competition:
